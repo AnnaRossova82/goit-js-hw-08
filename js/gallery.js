@@ -85,8 +85,7 @@ const images = [
      
             galleryLink.appendChild(galleryImage);
             galleryItem.appendChild(galleryLink);
-
-           
+         
             galleryContainer.appendChild(galleryItem);
         });
 
